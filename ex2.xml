@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metropolitanbus>
+  <route>
+    <route name="Benacazon"></route>
+      <stop name="C/ La Fuente"></stop>
+      <stop name="Plaza Palacio"></stop>
+      <stop name="Av.Andalucia"></stop>
+    <route name="Umbrete"></route>
+      <stop name="C/ Cordoba"></stop>
+      <stop name="C/ Granada"></stop>
+      <stop name="C/ Rio Quema"></stop>
+      <stop name="C/ Traspalacio"></stop>
+      <stop name="C/ Primero de Mayo"></stop>
+    <route name="Espartinas"></route>
+      <stop name="Urb.Monasterio"></stop>
+      <stop name="Monasterio del Loreto"></stop>
+      <stop name="Puerta del Hierro"></stop>
+      <stop name="Residencial El Jardin"></stop>
+      <stop name="Plaza de la Cruz"></stop>
+      <stop name="Hacienda San Antonio"></stop>
+      <stop name="Primer Semaforo"></stop>
+      <stop name="Urb.Villas Ciudad Jardin Triana"></stop>
+      <stop name="Urb.El Retiro"></stop>
+      <stop name="Colegio Europa"></stop>
+      <stop name="Urb.Alqueria de Almanzor"></stop>
+    <route name="Gines"></route>
+      <stop name="Gasolinera"></stop>
+      <stop name="Meson El Bosque"></stop>
+      <stop name="La Taurina"></stop>
+      <stop name="Hotel Gines"></stop>
+      <stop name="Muebles Castellano"></stop>
+    <route name="Castilleja de la Cuesta"></route>
+      <stop name="C/ Real"></stop>
+    <route name="Camas"></route>
+      <stop name="Carambolo"></stop>
+      <stop name="Cola de la Piñera"></stop>
+      <stop name="Pañoleta"></stop>
+    <route name="Sevilla"></route>
+      <stop name="Chapina"></stop>
+      <stop name="Plaza de Armas"></stop>
+  </route>
+</metropolitanbus>

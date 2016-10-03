@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gradebook>
+  <teacher>
+    <subjects>
+      <subject name="Lenguaje de marcas"></subject>
+        <students><grade>
+          <student name="Pilar Ruiz" grade="5"/>
+          <student name="Tomas Rodriguez" grade="8"/>
+          <student name="Fernando Fernandez" grade="6"/>
+          <student name="Isabel Gonzalez" grade="6"/>
+          <student name="Ricardo Maritnez" grade="5"/>
+          <student name="Sebastien Lecomte" grade="6"/>
+          <student name="Thierry Boulanger" grade="7"/>
+          <student name="Angel Belinchon" grade="4"/>
+          <student name="Pepito Grillo" grade="2"/>
+          <student name="Pepe Perez" grade="5"/>
+      <subject name="Gestion bases de datos"></subject>
+        <students><grade>
+          <student name="Pilar Ruiz" grade="7"/>
+          <student name="Tomas Rodriguez" grade="9"/>
+          <student name="Fernando Fernandez" grade="6"/>
+          <student name="Isabel Gonzalez" grade="6"/>
+          <student name="Ricardo Maritnez" grade="7"/>
+          <student name="Sebastien Lecomte" grade="8"/>
+          <student name="Thierry Boulanger" grade="7"/>
+          <student name="Angel Belinchon" grade="3"/>
+          <student name="Pepito Grillo" grade="5"/>
+          <student name="Pepe Perez" grade="4"/>
+            </grade>
+          </students>
+        </grade>
+      </students>
+    </subjects>
+  </teacher>
+</gradebook>

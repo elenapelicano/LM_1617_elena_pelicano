@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cookbook>
+  <recipe>
+    <recipe name="Tortilla de patatas"></recipe>
+  <ingredients>
+    <ingredient name="huevos"></ingredient>
+    <ingredient name="patatas"></ingredient>
+    <ingredient name="aceite de oliva"></ingredient>
+  <preparation>
+    <preparation recipe="calentar aceite de oliva en sarten"></preparation>
+    <preparation recipe="batir los huevos"></preparation>
+    <preparation recipe="pelar,trocear y freir las patatas en sarten"></preparation>
+    <preparation recipe="añadir el huevo batido a la sarten"></preparation>
+    <preparation recipe="voltear la tortilla"></preparation>
+    <preparation recipe="añadir una pizca de sal"></preparation>
+    <preparation recipe="servir"></preparation>
+  <recipe>
+    <recipe name="Gazpacho"></recipe>
+  <ingredients>
+    <ingredient name="tomates"></ingredient>
+    <ingredient name="pepino"></ingredient>
+    <ingredient name="pimientos verdes"></ingredient>
+    <ingredient name="cebolla"></ingredient>
+    <ingredient name="ajo"></ingredient>
+    <ingredient name="pan"></ingredient>
+    <ingredient name="aceite de oliva"></ingredient>
+    <ingredient name="vinagre"></ingredient>
+    <ingredient name="agua"></ingredient>
+    <ingredient name="sal"></ingredient>
+  <preparation>
+    <preparation recipe="trocear tomates,pepino y pimientos"></preparation>
+    <preparation recipe="trocear la cebolla y ajo"></preparation>
+    <preparation recipe="añadir trozos de pan junto con los ingredientes anteriores a la batidora"></preparation>
+    <preparation recipe="añadir el aceite de oliva, el vinagre y sal"></preparation>
+    <preparation recipe="añadir agua y batir"></preparation>
+    <preparation recipe="servir en un cuenco o vaso bien frio"></preparation>
+          </preparation>
+        </ingredients>
+      </recipe>
+    </preparation>
+  </ingredients>
+ </recipe>
+</cookbook>
