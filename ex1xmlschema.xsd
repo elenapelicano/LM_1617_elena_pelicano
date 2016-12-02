@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="member">
+    <xs:complextype>
+      <xs:sequence>
+        <xs:element ref="membership" minOccurs="1" maxOcurrs="unbounded"/>
+      </xs:sequence>
+    </xs:complextype>
+  </xs:element>
+  <xs:element name="membership">
+    <xs:complextype>
+      <xs:sequence>
+        <xs:element ref="member"/>
+        <xs:element ref="name"/>
+        <xs:element ref="yearofmembership"/>
+      </xs:sequence>
+    </xs:complextype>
+  </xs:element>
+  <xs:element name="member" type="xs:string"/>
+  <xs:element name="name">
+  <xs:element name="yearofmembership">
+    <xs:complextype>
+      <xs:sequence>
+        <xs:element ref="member" minOcurrs="1" maxOcurrs="3"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="member">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="name"/>
+        <xs:element ref="yearofmembership"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="name" type="xs:string"/>
+  <xs:element name="yearofmembership" type="xs:decimal"/>
+</xs:schema>

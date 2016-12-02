@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<member>
+    <membership>
+        <member>
+            <name>Chris Smith</name>
+              <yearsofmembership>4</yearsofmembership>
+            <name>Judi Zimmerman</name>
+              <yearofmembership>5</yearofmembership>
+            <name>Michael Calder</name>
+              <yearofmembership>3</yearofmembership>
+        </member>
+    </membership>
+</member>
